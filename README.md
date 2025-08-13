@@ -11,7 +11,8 @@
 # d. Demonstrate various UI/UX design tools in detail.
 
 ## Output:
-[Nara Guna Susmitha (212224230176)-Lab exp-1.pdf](https://github.com/user-attachments/files/21754706/Nara.Guna.Susmitha.212224230176.-Lab.exp-1.pdf)
+[exp-1.pdf](https://github.com/user-attachments/files/21754996/exp-1.pdf)
+
 
 
 
